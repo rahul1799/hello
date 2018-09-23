@@ -4,7 +4,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("Rahul Mishra");
+	printf("Rahul Mishra\n");
+	printf("Computer Science\n");
 	return 0;
 }
 
